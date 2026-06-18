@@ -1,0 +1,9 @@
+Jun 18 10:01:23 server sshd[1234]: Failed password for root from 192.168.1.105 port 22
+Jun 18 10:01:25 server sshd[1234]: Failed password for root from 192.168.1.105 port 22
+Jun 18 10:01:27 server sshd[1234]: Failed password for root from 192.168.1.105 port 22
+Jun 18 10:01:29 server sshd[1234]: Failed password for root from 192.168.1.105 port 22
+Jun 18 10:01:31 server sshd[1234]: Failed password for root from 192.168.1.105 port 22
+Jun 18 10:02:10 server sshd[1234]: Accepted password for acer from 192.168.1.200 port 22
+Jun 18 10:05:00 server sshd[1234]: Failed password for admin from 10.0.0.55 port 22
+Jun 18 10:05:02 server sshd[1234]: Failed password for admin from 10.0.0.55 port 22
+
