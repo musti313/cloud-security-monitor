@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Cloud Security Monitor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1a1a2e;
+            color: #eaeaea;
+            padding: 30px;
+        }
+        h1 {
+            color: #e94560;
+        }
+        .alert {
+            background-color: #e94560;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+        }
+        .ok {
+            background-color: #16213e;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+            border-left: 4px solid #0f9b58;
+        }
+        .timestamp {
+            color: #888;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <h1>🔐 Cloud Security Monitor</h1>
+    <p class="timestamp">Letzter Scan: 2026-06-18 12:56:43</p>
+
+    <h2>Verdächtige IPs</h2>
+    <div class="alert">🚨 ALERT: 192.168.1.105 hatte 5 fehlgeschlagene Logins!</div>
+    <div class="ok">✅ OK: 10.0.0.55 hatte 2 fehlgeschlagene Logins</div>
+
+    <h2>Erfolgreiche Logins</h2>
+    <div class="ok">✅ Erfolgreicher Login von: 192.168.1.200</div>
+</body>
