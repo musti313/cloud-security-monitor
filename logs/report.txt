@@ -1,0 +1,9 @@
+=== Cloud Security Monitor Report ===
+Erstellt am: 2026-06-18 12:56:43
+
+--- Verdächtige IPs ---
+🚨 ALERT: 192.168.1.105 hatte 5 fehlgeschlagene Logins!
+✅ OK: 10.0.0.55 hatte 2 fehlgeschlagenen Login
+
+--- Erfolgreiche Logins ---
+✅ Erfolgreicher Login von: 192.168.1.200
